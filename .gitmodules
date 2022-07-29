@@ -1,0 +1,6 @@
+[submodule "with_advisory_lock"]
+	path = with_advisory_lock
+	url = git@github.com:ClosureTree/with_advisory_lock.git
+[submodule "closure_tree"]
+	path = closure_tree
+	url = git@github.com:ClosureTree/closure_tree.git
